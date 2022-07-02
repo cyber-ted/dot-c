@@ -1,4 +1,4 @@
-/* Program that implements Promotion incC */
+/* Program that implements Promotion in C */
 
 #include <stdio.h> 
 #include <stdlib.h>
